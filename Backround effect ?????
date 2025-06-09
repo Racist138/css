@@ -1,0 +1,14 @@
+div{
+height:200px;
+  background:linear-gradient(
+    #9d46af,red,blue
+  
+  );
+}
+body{
+  background-color: violet;
+  background-image: url("boy-5.png");
+  background-position: top right;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+}
