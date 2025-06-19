@@ -1,0 +1,45 @@
+<!--
+  Hit RUN to see this project in action!
+  
+  This project will auto-refresh as you edit the HTML, CSS and JS. See README.md for more info (including how to disable auto-refresh and install packages).
+-->
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+h1{
+  color:#d9c4c4;
+}
+body{
+background-color: black;
+  color:whitesmoke;
+}
+li:hover{
+color: lightsteelblue;
+  font-size: 15px;
+}
+li::before{content:"🚀🚀🚀🚀";}
+p::first-letter{
+  color: #dfbfbf;
+  font-size: 200%;
+}
+</head>
+
+<body>
+    <h1>
+Who wants to be a space explorer?! </h1>
+<ul>
+  <li>Free Space suit if u find a mystirous takis that looks like this </li>
+  <li>dev is coming to your house if u dont give me them <h1>Takis</h1></li>
+    <img src="Dev is cool.png" height="100px">
+</ul>
+  
+<p>Space, the final frontier. A vast expanse of cosmic wonders and mysteries, beckoning humanity to explore its uncharted territories. From distant galaxies to swirling nebulae, space holds the secrets of the universe, waiting to be discovered.</p>
+  <a href="https://alexa.com">
+    free alexa probs
+  </a>
+</body>
+
+</html>
