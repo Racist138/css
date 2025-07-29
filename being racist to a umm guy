@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" href=
+
+  "https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
+
+  <script src=
+
+  "https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+
+  </script>
+</head>
+
+<body>
+ <button button type="button" class="btn btn-primary">Primary</button> 
+  <button button type="button" class="btn btn-secondary">Secondary</button>
+  <button button type="button" class="btn btn-success">Success</button>
+  <button button type="button" class="btn btn-danger">Danger</button>
+  <button button type="button" class="btn btn-warning">Warning</button> 
+  <span class="badge badge-light">Obama have dih, obama have dih bada</span>
+  <button button type="button" class="btn btn-light">Notifications<span class="badge badge-primary">2</span> </button>
+  <div class="progress">
+    <div class="progress-bar" style="width:1000000000000000000000000000%"> Handsomeness 10000000000000000000000000000%</div>
+  </div>
+</body>
+
+</html>
