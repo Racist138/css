@@ -1,0 +1,23 @@
+<html>
+  <head></head>
+  <body>
+    <button onclick="sum()">click thee</button>
+   <p id="ak47"></p>
+     <p id="ak48"></p>
+    <p id="ak49"></p>
+    <script>
+var a=69 <!--global variable-->
+  function sum(){
+    var b=50 //local variable
+     document.getElementById("ak47").innerHTML=a+b
+  } 
+  documentgetElementById("ak48").innerHTML=a
+
+       document.getElementById("ak49").innerHTML=b
+
+
+
+      
+    </script>
+  </body>
+</html>
