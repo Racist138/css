@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  
+<body>
+<button onclick="ascending()">ascending order</button>
+  <button onclick="descending()">descending order</button>
+  <p id="result"></p>
+<script>
+var points = [40,100,565656,5932905,9];
+document.getElementById("result").innerHTML = points
+  function ascending() {
+  points.sort(function(a,b){return a - b})
+      document.getElementById("result").innerHTML = points; }
+  function descending() {
+  points.sort(function(a,b){return b - a})
+      document.getElementById("result").innerHTML = points; }
+</script>
+
+<p id="product_value"></p>
+<script>
+  var numbers = [28,9,56,95]
+
+  function myFunction(num) {
+return num*10; }
+  var newwarry = numbers.map(myFunction);
+  document.getElementById("product_value").innerHTML = newwarry
+</script>
+</body>
+</html>
